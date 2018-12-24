@@ -1,10 +1,10 @@
 <template>
-    <div class="header"></div>
+    <div class="swiper">swiper</div>
 </template>
 
 <script>
     export default {
-        name: "HomeHeader"
+        name: "HomeSwiper"
     }
 </script>
 
